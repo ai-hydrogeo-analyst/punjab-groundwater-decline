@@ -32,7 +32,7 @@ Groundwater decline is concentrated in central Punjab, Lahore shows the most sev
 
 Author
 
-**Tooba Nayab** — Geologist specializing in AI-driven hydrology, groundwater recharge, and land subsidence analysis.
+**Tooba Nayab** — AI Hydrogeologist specializing in groundwater recharge, land subsidence, and water stress analysis combining satellite remote sensing and machine learning for the Indus Basin.
 
 GitHub: [ai-hydrogeo](https://github.com/ai-hydrogeo)
 ResearchGate: [Tooba Nayab](https://www.researchgate.net/profile/Tooba-Nayab)
