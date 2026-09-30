@@ -24,15 +24,11 @@ Tools Used
 
 Output
 
-Punjab_Groundwater_Decline.png, 300 dpi map
-punjab_groundwater.csv, underlying data
+Punjab_Groundwater_Decline.png, 300 dpi map and punjab_groundwater.csv, underlying data
 
 Key Findings
 
-Groundwater decline is concentrated in central Punjab
-Lahore shows the most severe depletion (48 ft since 2004)
-Pakpattan and Multan follow closely
-This establishes a baseline for Managed Aquifer Recharge (MAR) site prioritization
+Groundwater decline is concentrated in central Punjab, Lahore shows the most severe depletion (48 ft since 2004), Pakpattan and Multan follow closely. This establishes a baseline for Managed Aquifer Recharge (MAR) site prioritization
 
 Author
 
