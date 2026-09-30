@@ -1,7 +1,7 @@
 # Groundwater Table Decline in Punjab (2004–2024)
 A data-driven map showing district-level groundwater depletion across Punjab, Pakistan, based on published water table decline data.
 
-## 📊 Data
+Data
 
 | District | Decline (ft since 2004) |
 |----------|-------------------------|
@@ -16,27 +16,26 @@ A data-driven map showing district-level groundwater depletion across Punjab, Pa
 
 Source: PCRWR and Punjab Irrigation Department (published reports)
 
-## 🛠️ Tools Used
+Tools Used
 
-- QGIS — cartography and spatial visualization
-- GADM — Pakistan district boundaries
-- CSV — groundwater decline data
+- QGIS cartography and spatial visualization
+- GADM Pakistan district boundaries
+- CSV  groundwater decline data
 
-## 🗺️ Output
+Output
 
-- `Punjab_Groundwater_Decline.png` — 300 dpi map
-- `punjab_groundwater.csv` — underlying data
+Punjab_Groundwater_Decline.png` — 300 dpi map
+punjab_groundwater.csv` — underlying data
 
-## 🔍 Key Findings
+Key Findings
+Groundwater decline is concentrated in central Punjab
+Lahore shows the most severe depletion (48 ft since 2004)
+Pakpattan and Multan follow closely
+This establishes a baseline for Managed Aquifer Recharge (MAR) site prioritization
 
-- Groundwater decline is concentrated in central Punjab
-- Lahore shows the most severe depletion (48 ft since 2004)
-- Pakpattan and Multan follow closely
-- This establishes a baseline for Managed Aquifer Recharge (MAR) site prioritization
-
-## 👤 Author
+Author
 
 **Tooba Nayab** — Geologist specializing in AI-driven hydrology, groundwater recharge, and land subsidence analysis.
 
-- GitHub: [ai-hydrogeo](https://github.com/ai-hydrogeo)
-- ResearchGate: [Tooba Nayab](https://www.researchgate.net/profile/Tooba-Nayab)
+GitHub: [ai-hydrogeo](https://github.com/ai-hydrogeo)
+ResearchGate: [Tooba Nayab](https://www.researchgate.net/profile/Tooba-Nayab)
